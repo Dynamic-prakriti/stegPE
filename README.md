@@ -26,7 +26,7 @@ This lab embeds malicious text prompts inside ordinary looking images using steg
 ```
 stegPE/
 ├── images/                    # generated images 
-│   └── README.txt
+│   
 ├── scripts/
 │   ├── image.py               # Generate realistic carrier image
 │   ├── encoder.py             # Embed payloads via LSB and EXIF
@@ -40,6 +40,7 @@ stegPE/
 │   ├── results_summary.json
 │   └── scanner_report.json
 └── requirements.txt
+|___README.txt
 ```
 
 ---
