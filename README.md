@@ -25,7 +25,7 @@ This lab embeds malicious text prompts inside ordinary looking images using steg
 
 ```
 stegPE/
-├── images/                    # Place carrier.png here
+├── images/                    # generated images 
 │   └── README.txt
 ├── scripts/
 │   ├── image.py               # Generate realistic carrier image
