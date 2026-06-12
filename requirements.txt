@@ -1,0 +1,12 @@
+stegano
+Pillow
+piexif
+langchain
+langchain-community
+pandas
+matplotlib
+sentence-transformers
+scipy
+numpy
+jupyter
+ipykernel
