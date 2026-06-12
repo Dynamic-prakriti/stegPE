@@ -135,9 +135,12 @@ EXIF payloads survive  : 0/6  - Defense
 
 ---
 ## Read the Blog
-Medium write-up: 
+Medium write-up: [Click here](https://medium.com/@prakrititimilsina56/i-hid-malicious-prompts-inside-images-and-fed-them-to-ai-7ea893036002)
 
 ---
 ## License
 
 MIT License — see LICENSE file for details.
+
+
+[def]: https://medium.com/@prakrititimilsina56/i-hid-malicious-prompts-inside-images-and-fed-them-to-ai-7ea893036002
